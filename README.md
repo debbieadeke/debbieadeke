@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pwc.com/gx/en/issues/cybersecurity/digital-trust-insights/dti-hero-banner-global-animated.gif)
+![MasterHead](https://www.pwc.com/gx/en/issues/cybersecurity/digital-trust-insights/dti-hero-banner-global-animated.gif)
 <h1 align="center">Hi 👋, I'm Debbie Adeke</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
