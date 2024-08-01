@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **okakadebbie15@gmail.com**
 
-- ⚡ Fun fact **I laugh alot**
+- ⚡ Fun fact **I laugh a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,16 +16,13 @@
 <a href="https://instagram.com/debbie.adeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debbie.adeke" height="30" width="40" /></a>
 </p>
 
- 
-<h3 align="left">Languages-Frameworks-Tools</h3>
+<h3 align="left">Languages-Frameworks-Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,laravel,tailwind,react,php,wordpress,linux,figma,github,vscode" /><br>
-<!--     <img src="https://skillicons.dev/icons?i=react,php,wordpress,linux,figma,github,vscode" /><br> -->
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,laravel,tailwind,react,php,wordpress,linux,figma,github,vscode" />
   </a>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debbieadeke&show_icons=true&locale=en&layout=compact&theme=dark" alt="debbieadeke" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debbieadeke&show_icons=true&locale=en&layout=compact" alt="debbieadeke" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debbieadeke&" alt="debbieadeke" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debbieadeke&theme=dark" alt="debbieadeke" /></p>
