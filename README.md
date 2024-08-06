@@ -19,7 +19,7 @@
 <h3 align="left">Languages-Frameworks-Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,laravel,tailwind,react,php,wordpress,linux,figma,github,vscode,phpstorm" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,laravel,react,bootstrap,tailwind,wordpress,linux,figma,github,vscode,phpstorm" />
   </a>
 </p>
 
