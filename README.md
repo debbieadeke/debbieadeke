@@ -1,5 +1,4 @@
 ![MasterHead](https://www.pwc.com/gx/en/issues/cybersecurity/digital-trust-insights/dti-hero-banner-global-animated.gif)
-![MasterHead](https://www.pwc.com/gx/en/issues/cybersecurity/digital-trust-insights/dti-hero-banner-global-animated.gif)
 <h1 align="center">Hi 👋, I'm Debbie Adeke</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
@@ -25,6 +24,8 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debbieadeke&show_icons=true&locale=en&layout=compact&theme=dark" alt="debbieadeke" /></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=debbieadeke&theme=dark&hide_border=true)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debbieadeke&theme=dark" alt="debbieadeke" /></p>
 
