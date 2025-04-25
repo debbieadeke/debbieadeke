@@ -25,8 +25,19 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debbieadeke&show_icons=true&locale=en&layout=compact&theme=dark" alt="debbieadeke" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
+<img src="https://nirzak-streak-stats.vercel.app/?user=debbieadeke&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbieadeke&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debbieadeke&theme=dark" alt="debbieadeke" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=debbieadeke&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+
+
 
