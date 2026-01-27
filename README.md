@@ -3,6 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Debbie Adeke</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
+<p align="center">
+  <a href="https://debbieadeke.github.io/debbie-portfolio/" target="_blank">🌐 View My Portfolio</a>
+</p>
 
 - 🌱 I’m currently learning **Laravel**
 
