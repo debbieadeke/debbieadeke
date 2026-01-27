@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **okakadebbie15@gmail.com**
 
-- ⚡ Fun fact **I'm a baker and I laugh alot**
+- ⚡ Fun fact **I'm a self-taught baker and I laugh alot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
