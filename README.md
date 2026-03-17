@@ -7,7 +7,7 @@
   <a href="https://debbieadeke.github.io/debbie-portfolio/" target="_blank">🌐 View My Portfolio</a>
 </p>
 
-### 👩‍💻 About Me
+### 👩🏽‍💻 About Me
 I'm a developer passionate about building **clean, accessible, and responsive interfaces**. I have hands-on experience with **Laravel-based systems**, UI/UX design, and Docker workflows.
 
 - 🌱 Currently learning **React** and **Python for Data Science**
@@ -33,7 +33,8 @@ I'm a developer passionate about building **clean, accessible, and responsive in
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<img src="https://nirzak-streak-stats.vercel.app/?user=debbieadeke&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=debbieadeke&theme=dark&hide_border=false" alt="GitHub Streak Stats"> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debbieadeke&theme=dark" alt="Github Streak Stats">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbieadeke&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
