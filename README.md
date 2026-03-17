@@ -8,10 +8,10 @@
 </p>
 
 ### 👩🏽‍💻 About Me
-I'm a developer passionate about building **clean, accessible, and responsive interfaces**. I have hands-on experience with **Laravel-based systems**, UI/UX design, and Docker workflows.
+I'm a developer passionate about building **clean, accessible, and responsive interfaces**. I have hands-on experience with **Laravel-based systems**, UI/UX design and Docker workflows.
 
 - 🌱 Currently learning **React** and **Python for Data Science**
-- 💼 Experienced with real-world Laravel projects, Spring Boot systems, and WordPress websites
+- 💼 Experienced with real-world Laravel projects, Spring Boot systems and WordPress websites
 - ⚡ Fun fact: I laugh a lot and love trying new baking recipes
 - 📫 How to reach me **okakadebbie15@gmail.com**
 
