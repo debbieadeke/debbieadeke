@@ -7,11 +7,15 @@
   <a href="https://debbieadeke.github.io/debbie-portfolio/" target="_blank">🌐 View My Portfolio</a>
 </p>
 
-- 🌱 I’m currently learning **Laravel**
+### 👩‍💻 About Me
+I'm a developer passionate about building **clean, accessible, and responsive interfaces**. I have hands-on experience with **Laravel-based systems**, UI/UX design, and Docker workflows.
 
+- 🌱 Currently learning **React** and **Python for Data Science**
+- 💼 Experienced with real-world Laravel projects, Spring Boot systems, and WordPress websites
+- ⚡ Fun fact: I laugh a lot and love trying new baking recipes
 - 📫 How to reach me **okakadebbie15@gmail.com**
 
-- ⚡ Fun fact **I'm a self-taught baker and I laugh alot**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
