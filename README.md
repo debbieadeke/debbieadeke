@@ -37,7 +37,9 @@ I'm a developer passionate about building **clean, accessible, and responsive in
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=debbieadeke&theme=dark" alt="Github Streak Stats">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbieadeke&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbieadeke&theme=dark&layout=compact" alt="Top Languages"> -->
 
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbieadeke&theme=dark&layout=compact&cache_seconds=0" alt="Top Languages"> -->
 
 
 
