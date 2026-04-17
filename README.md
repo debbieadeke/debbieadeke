@@ -19,11 +19,12 @@ I'm a developer passionate about building **clean, accessible, and responsive in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/debbie_adeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debbie_adeke" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/debbie-okaka-0121202a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debbie okaka" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:21417441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21417441" height="30" width="40" /></a>
-<a href="https://instagram.com/debbie.adeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debbie.adeke" height="30" width="40" /></a>
+  <a href="https://twitter.com/debbie_adeke"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>&nbsp;
+  <a href="https://linkedin.com/in/debbie-okaka-0121202a6"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>&nbsp;
+  <a href="https://stackoverflow.com/users/21417441"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"/></a>&nbsp;
+  <a href="https://instagram.com/debbie.adeke"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
 </p>
+
 
 <h3 align="left">Languages-Frameworks-Tools:</h3>
 <p align="left">
