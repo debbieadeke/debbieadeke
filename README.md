@@ -13,7 +13,7 @@ I'm a developer passionate about building **clean, accessible, and responsive in
 - 🌱 Currently learning **React** and **Python for Data Science**
 - 💼 Experienced with real-world Laravel projects, Spring Boot systems and WordPress websites
 - ⚡ Fun fact: I laugh a lot and love trying new baking recipes
-- 📫 How to reach me **okakadebbie15@gmail.com**
+- 📫 How to reach me **debbieokakaa.com**
 
 
 
